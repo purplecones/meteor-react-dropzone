@@ -1,0 +1,14 @@
+{
+  "aws": {
+    "s3": {
+      "bucket": "myBucket",
+      "region": "myRegion",
+      "acl": "public-read",
+      "maxSize": null,
+      "client": {
+        "id": "awsAccessKey",
+        "secret": "awsSecretAccessKey"
+      }
+    }
+  }
+}
